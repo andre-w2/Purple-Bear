@@ -1,0 +1,12 @@
+{
+  "name": "test/test",
+  "require": {
+    "php": ">=7.1",
+    "imy/core": "dev-main",
+    "nesbot/carbon": "^2.66"
+  },
+  "repositories": [{
+    "type": "vcs",
+    "url": "https://github.com/feastker/imy-core.git"
+  }]
+}
